@@ -1,0 +1,8 @@
+Practice Questions Day 5: 
+1. Implement pow function of CPP in O(log(n)) using recursion, ie calculate a^b.
+2. https://leetcode.com/problems/second-largest-digit-in-a-string/ (Strings) 
+3. https://www.hackerrank.com/challenges/dynamic-array/problem (Vectors)
+4. https://leetcode.com/problems/valid-palindrome/description/ (Recursion)
+5. https://leetcode.com/problems/count-good-numbers/description/ (Recursion) 
+6. https://leetcode.com/problems/generate-parentheses/description/ (Recursion)
+7. https://leetcode.com/problems/range-sum-query-immutable/description/ (Basic OOPS Implementation)
